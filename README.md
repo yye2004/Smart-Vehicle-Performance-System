@@ -7,11 +7,11 @@ SVPS leverages sensor data to track key vehicle metrics such as speed, fuel cons
 ## 🎯 Project Objectives & Scope
 
 SVPS is designed to tackle pressing automotive issues including rising fuel costs, vehicle breakdowns, and road accidents. Here are the primary objectives and goals of the system:
-**1. Reduction in Fuel Consumption
-**2. Reduction in Road Accidents
-**3. Data Monitoring and Predictive Insights
-**4. Maximizing User Engagement
-**5. User Confidentiality and Security
+- Reduction in Fuel Consumption
+- Reduction in Road Accidents
+- Data Monitoring and Predictive Insights
+- Maximizing User Engagement
+- User Confidentiality and Security
 
 
 ## 📱 Key Features
